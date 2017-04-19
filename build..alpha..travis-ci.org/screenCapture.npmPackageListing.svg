@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 13:21:27 +0000    75315 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 13:21:27 +0000     2634 bytes  beta-readme.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 13:21:27 +0000      671 bytes  config.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 13:21:27 +0000      225 bytes  dep.d.ts</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 13:21:27 +0000     1126 bytes  oauth-service.d.ts</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 13:21:27 +0000    11999 bytes  oauth-service.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 13:21:27 +0000     2352 bytes  package.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 13:21:27 +0000     6736 bytes  readme.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 13:21:27 +0000      385 bytes  tsconfig.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 13:21:27 +0000      160 bytes  typings.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 13:21:27 +0000       61 bytes  typings/browser.d.ts</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 13:21:27 +0000    24454 bytes  typings/browser/ambient/es6-shim/index.d.ts</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 13:21:27 +0000       58 bytes  typings/main.d.ts</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 13:21:27 +0000    24454 bytes  typings/main/ambient/es6-shim/index.d.ts</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 13:22:26 +0000    75315 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 13:22:26 +0000     2634 bytes  beta-readme.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 13:22:26 +0000      671 bytes  config.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 13:22:26 +0000      225 bytes  dep.d.ts</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 13:22:26 +0000     1126 bytes  oauth-service.d.ts</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 13:22:26 +0000    11999 bytes  oauth-service.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 13:22:26 +0000     2352 bytes  package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 13:22:26 +0000     6736 bytes  readme.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 13:22:26 +0000      385 bytes  tsconfig.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 13:22:26 +0000      160 bytes  typings.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 13:22:26 +0000       61 bytes  typings/browser.d.ts</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 13:22:26 +0000    24454 bytes  typings/browser/ambient/es6-shim/index.d.ts</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 13:22:26 +0000       58 bytes  typings/main.d.ts</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 13:22:26 +0000    24454 bytes  typings/main/ambient/es6-shim/index.d.ts</tspan>
 </text>
 </svg>
